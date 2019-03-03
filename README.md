@@ -2,23 +2,10 @@
 Automatically presents ASCII art animals to greet you with a fortune quote whenever opening the terminal. And yeah, it changes "Randomly".
 
 ## Installation of dependencies
-Ubuntu/Debian:
- 1. `sudo apt -y install fortune cowsay ruby`
- 2. `wget https://github.com/busyloop/lolcat/archive/master.zip`
- 3. `unzip master.zip`
- 4. `cd lolcat-master/bin/`
- 5. `gem install lolcat`
- 6. `cd ../../`
- 7. `rm -rf master.zip lolcat-master`
-
-CentOS/RedHat:
- 1. `sudo yum -y install fortune cowsay ruby`
- 2. `wget https://github.com/busyloop/lolcat/archive/master.zip`
- 3. `unzip master.zip`
- 4. `cd lolcat-master/bin/`
- 5. `gem install lolcat`
- 6. `cd ../../`
- 7. `rm -rf master.zip lolcat-master`
+Debian: 
+Ubuntu: 
+Redhat: 
+CantOS:
 
 ## How to get ASCII Splash working
  1. Install the required dependencies.
