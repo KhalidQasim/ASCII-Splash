@@ -3,22 +3,22 @@ Automatically presents ASCII art animals to greet you with a fortune quote whene
 
 ## Installation of dependencies
 Ubuntu/Debian: 
-`sudo apt -y install fortune cowsay ruby`
-`wget https://github.com/busyloop/lolcat/archive/master.zip`
-`unzip master.zip`
-`cd lolcat-master/bin/`
-`gem install lolcat`
-`cd ../../`
-`rm -rf master.zip lolcat-master`
+ `sudo apt -y install fortune cowsay ruby`
+ `wget https://github.com/busyloop/lolcat/archive/master.zip`
+ `unzip master.zip`
+ `cd lolcat-master/bin/`
+ `gem install lolcat`
+ `cd ../../`
+ `rm -rf master.zip lolcat-master`
 
 CentOS/RedHat:
-`sudo yum -y install fortune cowsay ruby`
-`wget https://github.com/busyloop/lolcat/archive/master.zip`
-`unzip master.zip`
-`cd lolcat-master/bin/`
-`gem install lolcat`
-`cd ../../`
-`rm -rf master.zip lolcat-master`
+ `sudo yum -y install fortune cowsay ruby`
+ `wget https://github.com/busyloop/lolcat/archive/master.zip`
+ `unzip master.zip`
+ `cd lolcat-master/bin/`
+ `gem install lolcat`
+ `cd ../../`
+ `rm -rf master.zip lolcat-master`
 
 ## How to get ASCII Splash working
  1. Install the required dependencies.
