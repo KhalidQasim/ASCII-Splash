@@ -11,6 +11,7 @@ This following tutorial is for *nix based systems.
  5. Add the following line to the end of the file: `python3 ascii.py`
  6. Save the changes and exit the text editor.
  7. Close (or restart) the Terminal.
- 8. Enjoy watching a different animal quoting a different fortune quote each time you open the terminal.
- 
+ 8. Enjoy watching a different animals quoting different fortune quotes each time you open the terminal.
+
+
 Created by Khalid Qasim 2018.
